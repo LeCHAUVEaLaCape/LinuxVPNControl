@@ -1,9 +1,10 @@
 package main
 
 import (
-	"LinuxVPNControl/pkg/vpnmanager"
 	"fmt"
 	"os"
+
+	"LinuxVPNControl/pkg/vpnmanager"
 )
 
 func main() {
