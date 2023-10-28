@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"LinuxVPNControl/pkg/vpnmanager"
+	"github.com/LeCHAUVEaLaCape/LinuxVPNControl/pkg/vpnmanager"
 )
 
 func main() {
